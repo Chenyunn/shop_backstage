@@ -1,3 +1,6 @@
+访问地址：http://shop.wwxcy.cn 
+用户名：admin 密码：admin
+
 # vue-el-admin
 
 ## Project setup
